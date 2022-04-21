@@ -1,0 +1,15 @@
+Early Prediction Of Lifestyle Diseases
+
+GitHub Link
+
+Organizations Link ~ https://github.com/Full-Stack-Warriors
+
+User Side Front End Repo Link ~ https://github.com/Full-Stack-Warriors/Client-Side.git
+Admin / Doctor Front End Repo Link ~ https://github.com/Full-Stack-Warriors/Admin-Doctor-Panal.git
+Backend Repo Link ~ https://github.com/Full-Stack-Warriors/Backend.git
+
+Deployment Link
+
+User Side Deployement Link ~ https://ehealthcareforeveryone.netlify.app
+Admin Side Deployment Link ~ https://ehealthcareadmin.netlify.app/login
+Backend Deployment Link ~ https://lifestylediseases.herokuapp.com/
